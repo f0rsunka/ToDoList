@@ -1,34 +1,33 @@
-Приложение для IOS
+App for IOS ToDoList
 
-Простое приложение, позволяющее создавать новое дело, помечать его как сделанное и удалять его.
-Список сохраняется даже тогда, кодга пользователь закрывает приложение.
+	A simple todo app. You can add new tasks to your list, mark them as done and remove them.
+	Changes in the list are saved between different sessions.
 
 
-Добавление новой позиции:
+Adding a new task:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/open_app.png)
 
-Нажатие на "+":
+Press "+":
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/open_uiController.png)
 
-Ввод нового дела:
+Input a new task:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/add_new_item.png)
 
-Просмотр списка:
+List view:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/new_item_was_added.png)
 
-Дело отмечено как сделанное:
+Task mark as read:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/item_mark_as_done.png)
 
-Удаление позиции:
+Remove task from list:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/remove_item.png)
 
-Больше позиций:
+More tasks:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/more_items.png)
-
