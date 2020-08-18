@@ -34,4 +34,4 @@ Task was removed:
 
 More tasks:
 
-![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/more_items.png)
+![more tasks](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/more_items.png)
