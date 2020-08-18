@@ -28,6 +28,10 @@ Remove task from list:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/remove_item.png)
 
+Task was removed:
+
+![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/item_was_removed.png)
+
 More tasks:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/more_items.png)
