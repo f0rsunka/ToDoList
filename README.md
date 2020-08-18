@@ -4,7 +4,7 @@ App for IOS ToDoList
 	Changes in the list are saved between different sessions.
 
 
-Adding a new task:
+First view:
 
 ![](https://github.com/f0rsunka/ToDoList/raw/master/screenshots/open_app.png)
 
